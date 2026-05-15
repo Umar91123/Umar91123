@@ -36,10 +36,10 @@ I am a dedicated Software Engineering student from Faisalabad, Pakistan, focused
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umar91123&show_icons=true&theme=tokyonight" alt="Umar's GitHub Stats" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Umar91123&show_icons=true&theme=tokyonight&count_private=true" alt="Umar's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umar91123&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+</div>
 
 ---
 
