@@ -30,24 +30,21 @@ I am a dedicated Software Engineering student from Faisalabad, Pakistan, focused
 * **Tech:** MongoDB, Express.js, React.js, Node.js, Redux
 * **Key Features:** Secure user registration/login, complex product filtering, shopping cart functionality, and integrated payment gateway logic.
 
-
-
 ---
 
 ### 📊 GitHub Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umar91123&show_icons=true&theme=tokyonight&count_private=true" alt="Umar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umar91123&layout=compact&theme=tokyonight" alt="Top Langs" />
-</div>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Umar91123&show_icons=true&theme=tokyonight&count_private=true" alt="Umar's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umar91123&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [https://www.linkedin.com/in/muhammad-umar-5b557b3ba/]
-- **Email:** [saddique12437@gmail.com]
+- **LinkedIn:** [Muhammad Umar Saddique](https://www.linkedin.com/in/muhammad-umar-5b557b3ba/)
+- **Email:** [saddique12437@gmail.com](mailto:saddique12437@gmail.com)
 - **Location:** Faisalabad, Pakistan 🇵🇰
 
 ---
-*"Building the future, one commit at a time."*## Hi there 👋
-
+*"Building the future, one commit at a time."*
