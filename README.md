@@ -1,8 +1,8 @@
 # Hi there, I'm Muhammad Umar Saddique! 👋
 
-### 🚀 Full-Stack Developer | MERN Stack Specialist | Software Engineering Student
+### 🚀 Full-Stack Software Engineer | MERN Stack Specialist
 
-I am a dedicated Software Engineering student from Faisalabad, Pakistan, focused on building scalable, user-centric web applications. I specialize in the **MERN Stack** and enjoy bridging the gap between complex backend logic and intuitive frontend design.
+I am a dedicated Software Developer from Faisalabad, Pakistan, focused on building scalable, user-centric web applications. I specialize in the **MERN Stack** and enjoy bridging the gap between complex backend architecture and intuitive frontend design to deliver seamless digital experiences.
 
 ---
 
@@ -11,24 +11,33 @@ I am a dedicated Software Engineering student from Faisalabad, Pakistan, focused
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Frontend** | React.js, Vite, Tailwind CSS, Bootstrap, HTML5, CSS3 |
-| **Backend** | Node.js, Express.js, REST APIs |
+| **Backend** | Node.js, Express.js, RESTful APIs |
 | **Database** | MongoDB (Mongoose) |
 | **Programming** | JavaScript (ES6+), C++, Core Java |
-| **Tools & Cloud** | Git, GitHub, Vercel, VS Code |
+| **Tools & Cloud** | Git, GitHub, Vercel, VS Code, Postman |
 
 ---
 
 ### 📂 Featured Projects
 
-#### 🎬 Netflix Clone 
+#### 🎬 1. Netflix Clone Architecture
+A fully responsive, dynamic web application that replicates the core UI/UX of Netflix. 
 * **Status:** 🚀 Live on GitHub
-* **Tech:** React.js, Tailwind CSS, TMDB API, Firebase
-* **Key Features:** Dynamic movie sliders using TMDB API, responsive design, user authentication, and a sleek cinematic UI that mimics the original Netflix experience.
+* **Tech Stack:** React.js, Tailwind CSS, Firebase (Auth), TMDB API
+* **Technical Highlights:**
+  * **API Integration:** Integrated the TMDB (The Movie Database) API to fetch and display dynamic, real-time movie categories and trailers.
+  * **State Management & UI:** Built complex, reusable React components with smooth horizontal scrolling and a sleek cinematic dark-mode UI using Tailwind CSS.
+  * **Authentication:** Implemented secure user authentication (Login/Signup) using Firebase.
 
-#### 🛒 Full-Stack E-commerce Platform 
-* **Status:** 🛠️ In Development (Work in Progress)
-* **Tech:** MongoDB, Express.js, React.js, Node.js, Redux
-* **Key Features:** Secure user registration/login, complex product filtering, shopping cart functionality, and integrated payment gateway logic.
+#### 🛒 2. Full-Stack E-commerce Platform
+A comprehensive, end-to-end e-commerce solution with a fully functional frontend and a robust backend API architecture.
+* **Status:** 🛠️ In Development
+* **Tech Stack:** MongoDB, Express.js, React.js, Node.js (MERN), Redux Toolkit, JWT
+* **Technical Highlights:**
+  * **Backend Architecture:** Engineered a secure Node.js/Express backend with customized REST APIs for product management, user profiles, and order processing.
+  * **Database Modeling:** Designed efficient MongoDB schemas using Mongoose for handling complex relational data (Users, Products, Cart, Orders).
+  * **Security & Auth:** Implemented robust authentication and authorization using JWT (JSON Web Tokens) and bcrypt for password hashing.
+  * **Frontend Features:** Developed dynamic product filtering, state-managed shopping cart logic via Redux, and seamless checkout flows.
 
 ---
 
