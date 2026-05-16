@@ -14,7 +14,7 @@ I am a dedicated Software Developer from Faisalabad, Pakistan, focused on buildi
 | **Backend** | Node.js, Express.js, RESTful APIs |
 | **Database** | MongoDB (Mongoose) |
 | **Programming** | JavaScript (ES6+), C++, Core Java |
-| **Tools & Cloud** | Git, GitHub, Vercel, VS Code, Postman |
+| **Tools & Cloud** | Git, GitHub, Vercel, VS Code |
 
 ---
 
