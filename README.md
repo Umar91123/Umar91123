@@ -51,7 +51,7 @@ A comprehensive, end-to-end e-commerce solution with a fully functional frontend
 
 ### 📫 Connect with Me
 - **LinkedIn:** [Muhammad Umar Saddique](https://www.linkedin.com/in/muhammad-umar-5b557b3ba/)
-- **Email:** [saddique12437@gmail.com](mailto:saddique12437@gmail.com)
+- **Email:** [umarsaddique582@gmail.com](mailto:saddique12437@gmail.com)
 - **Location:** Faisalabad, Pakistan 🇵🇰
 
 ---
